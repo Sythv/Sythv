@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sythv&show_icons=true&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sythv&theme=github_dark" />
 </p>
 </p>
 
@@ -25,7 +25,8 @@
 
 ## ⚡ Coding Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sythv" />
+<img src="https://streak-stats.demolab.com?user=Sythv&theme=github-dark&hide_border=true" />
+
 </p>
 
 <hr>
