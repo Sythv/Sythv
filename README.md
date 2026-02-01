@@ -23,14 +23,6 @@
 
 <hr>
 
-## ⚡ Coding Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sythv&theme=github-dark&hide_border=true" />
-
-</p>
-
-<hr>
-
 ## 🎯 Focus
 - Clean UI & UX  
 - Full-stack development  
