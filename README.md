@@ -11,10 +11,11 @@
 
 <hr>
 
+
 ## 🧠 Tech Stack
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,mysql,java,php&theme=dark&v=3"
+    src="https://skillicons.dev/icons?i=html,css,mysql,java,php,python,cpp&theme=dark&v=3"
     alt="Tech stack icons"
     loading="lazy"
   />
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/PaperMC-Plugin%20Development-2C2F33?style=for-the-badge&logo=minecraft&logoColor=white" alt="PaperMC Plugin Development" />
   <img src="https://img.shields.io/badge/PocketMine-Plugin%20Development-2C2F33?style=for-the-badge&logo=php&logoColor=white" alt="PocketMine Plugin Development" />
 </p>
+
 
 <hr>
 
