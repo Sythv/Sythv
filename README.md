@@ -14,14 +14,14 @@
   <li>I enjoy exploring different technologies, building applications, and developing custom Minecraft plugins.</li>
   <li>My goal is to continue improving my programming skills and turn ideas into functional projects.</li>
 </ul>
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-087EA4?style=flat-square" alt="02 Tech stack" />
 
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-087EA4?style=flat-square" alt="02 Tech stack" />
+ 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql&theme=dark" alt="Java, Python, C++, HTML, CSS and MySQL" />
   <br>
   <img src="https://img.shields.io/badge/JAVA-102B46?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" /><img src="https://img.shields.io/badge/PYTHON-102B46?style=for-the-badge&logo=python&logoColor=36BCF7" alt="Python" /><img src="https://img.shields.io/badge/C%2B%2B-102B46?style=for-the-badge&logo=cplusplus&logoColor=36BCF7" alt="C++" /><img src="https://img.shields.io/badge/HTML-102B46?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /><img src="https://img.shields.io/badge/CSS-102B46?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /><img src="https://img.shields.io/badge/MYSQL-102B46?style=for-the-badge&logo=mysql&logoColor=36BCF7" alt="MySQL" />
 </div>
-
 ## <img src="https://img.shields.io/badge/03-DEVELOPMENT-087EA4?style=flat-square" alt="03 Development" />
 
 <table>
